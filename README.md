@@ -1,6 +1,6 @@
 # Social Media Registry API Documentation
 
-The Social Media Registry API has been replaced by the U.S. Digital Registry API which serves as the authoritative resource for agencies, citizens and developers to confirm the official status of social media and public-facing collaboration accounts, mobile apps and mobile websites.
+The Social Media Registry API has been replaced by the [U.S. Digital Registry API](https://www.digitalgov.gov/services/u-s-digital-registry/) which serves as the authoritative resource for agencies, citizens and developers to confirm the official status of social media and public-facing collaboration accounts, mobile apps and mobile websites.
 
 Data fields in the registry include the agency, platform, account, language, points of contact and collaborative tags.
 
